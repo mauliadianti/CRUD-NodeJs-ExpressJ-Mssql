@@ -1,0 +1,19 @@
+{
+  "name": "crud-nodejs-mssqlserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maulia artadianti",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "mssql": "^7.2.1",
+    "multer": "^1.4.3",
+    "nodemailer": "^6.7.0"
+  }
+}
